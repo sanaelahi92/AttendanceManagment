@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>709DAE50-B839-4830-AB72-77A5386890F7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFFD744BB1BDD8339E2C20A250936064B8F05B7A</key>
+		<string>https://bitbucket.org/welltimeltd/attendancemanagement-ios-app</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFFD744BB1BDD8339E2C20A250936064B8F05B7A</key>
+		<string>AttendanceManagement.xcodeproj/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/welltimeltd/attendancemanagement-ios-app</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFFD744BB1BDD8339E2C20A250936064B8F05B7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFFD744BB1BDD8339E2C20A250936064B8F05B7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AttendanceManagement.xcodeproj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
